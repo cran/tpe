@@ -1,0 +1,14 @@
+762780e1f4a5d0f7f1f41e45e4ccc24f *DESCRIPTION
+4e7423008e310eecc8cb5851fea58014 *NAMESPACE
+2a602ab3dc7f9826897cd918abd28242 *R/tpe1d.R
+69dd9d91b43d9dec998250310dd4ac92 *R/tpe2d.R
+976e0e464bbbbac391b6f711f443f2cf *data/datalist
+e26eabb297f802e0f1fd42a264282eb1 *data/digit.rda
+8f9790a0b1fc22bf6254f84172e82acd *data/protein.rda
+0e95acb30dee0ce2302f4b08cd90f587 *data/radar.rda
+78ae49898e6f2294eb85591ddfc7721f *man/digit.Rd
+cbcc4f41ac450f808aca8bf0149a2632 *man/protein.Rd
+220de1ae69581bd08c87d9ee6c668cb7 *man/radar.Rd
+5c0e5162b5731898d237075c33b42a84 *man/tpe-package.Rd
+2457f402ddc5464a388f828db086cee3 *man/tpe1d.Rd
+154054e5d8dad263b8965af3707ca741 *man/tpe2d.Rd
